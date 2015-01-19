@@ -1,0 +1,7 @@
+D:\Framewrk\R2\ConAppTestCompiler\obj\x86\Debug\ConAppTestCompiler.csprojResolveAssemblyReference.cache
+D:\Framewrk\R2\ConAppTestCompiler\bin\Debug\ConAppTestCompiler.exe
+D:\Framewrk\R2\ConAppTestCompiler\bin\Debug\ConAppTestCompiler.pdb
+D:\Framewrk\R2\ConAppTestCompiler\bin\Debug\JCompiler.dll
+D:\Framewrk\R2\ConAppTestCompiler\bin\Debug\JCompiler.pdb
+D:\Framewrk\R2\ConAppTestCompiler\obj\x86\Debug\ConAppTestCompiler.exe
+D:\Framewrk\R2\ConAppTestCompiler\obj\x86\Debug\ConAppTestCompiler.pdb

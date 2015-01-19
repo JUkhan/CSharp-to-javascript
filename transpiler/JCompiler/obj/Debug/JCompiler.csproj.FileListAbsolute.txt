@@ -1,0 +1,5 @@
+D:\Framewrk\R2\JCompiler\bin\Debug\JCompiler.dll
+D:\Framewrk\R2\JCompiler\bin\Debug\JCompiler.pdb
+D:\Framewrk\R2\JCompiler\obj\Debug\JCompiler.dll
+D:\Framewrk\R2\JCompiler\obj\Debug\JCompiler.pdb
+D:\Framewrk\R2\JCompiler\bin\Debug\JsMakerLib.dll

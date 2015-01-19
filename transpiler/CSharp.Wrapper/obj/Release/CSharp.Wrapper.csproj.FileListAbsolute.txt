@@ -1,0 +1,12 @@
+F:\projects\R2\CSharp.Wrapper\bin\Release\CSharp.Wrapper.dll
+F:\projects\R2\CSharp.Wrapper\bin\Release\CSharp.Wrapper.pdb
+F:\projects\R2\CSharp.Wrapper\bin\Release\JsMakerLib.dll
+F:\projects\R2\CSharp.Wrapper\obj\Release\CSharp.Wrapper.dll
+F:\projects\R2\CSharp.Wrapper\obj\Release\CSharp.Wrapper.pdb
+F:\projects\R2\CSharp.Wrapper\obj\Release\CSharp.Wrapper.csprojResolveAssemblyReference.cache
+C:\Users\Jasim.Uddin\Downloads\R2\CSharp.Wrapper\bin\Release\CSharp.Wrapper.dll
+C:\Users\Jasim.Uddin\Downloads\R2\CSharp.Wrapper\bin\Release\CSharp.Wrapper.pdb
+C:\Users\Jasim.Uddin\Downloads\R2\CSharp.Wrapper\bin\Release\JsMakerLib.dll
+C:\Users\Jasim.Uddin\Downloads\R2\CSharp.Wrapper\obj\Release\CSharp.Wrapper.csprojResolveAssemblyReference.cache
+C:\Users\Jasim.Uddin\Downloads\R2\CSharp.Wrapper\obj\Release\CSharp.Wrapper.dll
+C:\Users\Jasim.Uddin\Downloads\R2\CSharp.Wrapper\obj\Release\CSharp.Wrapper.pdb

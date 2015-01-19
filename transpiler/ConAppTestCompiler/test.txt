@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using JCompiler.JSLibs;
+using JCompiler.JSLibs.Angular;
+
+
+namespace ConAppTestCompiler
+{
+    public class Test : jsClass
+    {
+	List<string> list = new List<string>() { "one", "two", "three", "five" };
+	
+       
+        public void Testz() {
+		(from u in list select u).ToDictionarya().forEach((item, index2) =>
+                    {
+                        console.log("{0}-{1}".format(item.Name, item.Address.substr(0, 2)));
+                    });
+                   
+			((List<Student>)item2.items).forEach((item, index2) =>
+                    {
+                        console.log("{0}-{1}".format(item.Name, item.Address.substr(0, 2)));
+                    });
+			list.find(x=>x=="asd");
+            jQuery("").click(qw =>
+            {
+                alert("Message");
+            });
+        }
+    }
+}

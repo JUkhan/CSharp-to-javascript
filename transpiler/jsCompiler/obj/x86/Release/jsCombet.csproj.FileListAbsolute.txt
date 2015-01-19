@@ -1,0 +1,8 @@
+F:\projects\R2\jsCompiler\bin\Release\JCompiler.dll
+F:\projects\R2\jsCompiler\bin\Release\JsMakerLib.dll
+F:\projects\R2\jsCompiler\bin\Release\JCompiler.pdb
+F:\projects\R2\jsCompiler\obj\x86\Release\jsCombet.csprojResolveAssemblyReference.cache
+F:\projects\R2\jsCompiler\bin\Release\jsCombet.exe
+F:\projects\R2\jsCompiler\bin\Release\jsCombet.pdb
+F:\projects\R2\jsCompiler\obj\x86\Release\jsCombet.exe
+F:\projects\R2\jsCompiler\obj\x86\Release\jsCombet.pdb

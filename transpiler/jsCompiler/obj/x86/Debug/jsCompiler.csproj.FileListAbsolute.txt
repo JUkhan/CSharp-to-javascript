@@ -1,0 +1,8 @@
+D:\Framewrk\R2\jsCompiler\obj\x86\Debug\jsCompiler.csprojResolveAssemblyReference.cache
+D:\Framewrk\R2\jsCompiler\bin\Debug\jsCompiler.exe
+D:\Framewrk\R2\jsCompiler\bin\Debug\jsCompiler.pdb
+D:\Framewrk\R2\jsCompiler\bin\Debug\JCompiler.dll
+D:\Framewrk\R2\jsCompiler\bin\Debug\JCompiler.pdb
+D:\Framewrk\R2\jsCompiler\obj\x86\Debug\jsCompiler.exe
+D:\Framewrk\R2\jsCompiler\obj\x86\Debug\jsCompiler.pdb
+D:\Framewrk\R2\jsCompiler\bin\Debug\JsMakerLib.dll

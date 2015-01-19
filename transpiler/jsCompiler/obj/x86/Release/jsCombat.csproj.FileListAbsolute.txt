@@ -1,0 +1,8 @@
+F:\projects\R2\jsCompiler\bin\Release\jsCombat.exe
+F:\projects\R2\jsCompiler\bin\Release\jsCombat.pdb
+F:\projects\R2\jsCompiler\bin\Release\JCompiler.dll
+F:\projects\R2\jsCompiler\bin\Release\JsMakerLib.dll
+F:\projects\R2\jsCompiler\bin\Release\JCompiler.pdb
+F:\projects\R2\jsCompiler\obj\x86\Release\jsCombat.csprojResolveAssemblyReference.cache
+F:\projects\R2\jsCompiler\obj\x86\Release\jsCombat.exe
+F:\projects\R2\jsCompiler\obj\x86\Release\jsCombat.pdb
