@@ -5,3 +5,13 @@ D:\Framewrk\R2\ConAppTestCompiler\bin\Debug\JCompiler.dll
 D:\Framewrk\R2\ConAppTestCompiler\bin\Debug\JCompiler.pdb
 D:\Framewrk\R2\ConAppTestCompiler\obj\x86\Debug\ConAppTestCompiler.exe
 D:\Framewrk\R2\ConAppTestCompiler\obj\x86\Debug\ConAppTestCompiler.pdb
+F:\CSharp-to-javascript\transpiler\ConAppTestCompiler\bin\Debug\ConAppTestCompiler.exe
+F:\CSharp-to-javascript\transpiler\ConAppTestCompiler\bin\Debug\ConAppTestCompiler.pdb
+F:\CSharp-to-javascript\transpiler\ConAppTestCompiler\bin\Debug\CSharp.Wrapper.dll
+F:\CSharp-to-javascript\transpiler\ConAppTestCompiler\bin\Debug\JCompiler.dll
+F:\CSharp-to-javascript\transpiler\ConAppTestCompiler\bin\Debug\JsMakerLib.dll
+F:\CSharp-to-javascript\transpiler\ConAppTestCompiler\bin\Debug\CSharp.Wrapper.pdb
+F:\CSharp-to-javascript\transpiler\ConAppTestCompiler\bin\Debug\JCompiler.pdb
+F:\CSharp-to-javascript\transpiler\ConAppTestCompiler\obj\x86\Debug\ConAppTestCompiler.csprojResolveAssemblyReference.cache
+F:\CSharp-to-javascript\transpiler\ConAppTestCompiler\obj\x86\Debug\ConAppTestCompiler.exe
+F:\CSharp-to-javascript\transpiler\ConAppTestCompiler\obj\x86\Debug\ConAppTestCompiler.pdb

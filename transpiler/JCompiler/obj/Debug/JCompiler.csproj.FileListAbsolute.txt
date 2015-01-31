@@ -3,3 +3,7 @@ D:\Framewrk\R2\JCompiler\bin\Debug\JCompiler.pdb
 D:\Framewrk\R2\JCompiler\obj\Debug\JCompiler.dll
 D:\Framewrk\R2\JCompiler\obj\Debug\JCompiler.pdb
 D:\Framewrk\R2\JCompiler\bin\Debug\JsMakerLib.dll
+F:\CSharp-to-javascript\transpiler\JCompiler\bin\Debug\JCompiler.dll
+F:\CSharp-to-javascript\transpiler\JCompiler\bin\Debug\JCompiler.pdb
+F:\CSharp-to-javascript\transpiler\JCompiler\obj\Debug\JCompiler.dll
+F:\CSharp-to-javascript\transpiler\JCompiler\obj\Debug\JCompiler.pdb

@@ -1,0 +1,16 @@
+F:\projects\jsEmiterAddin\jsEmiterAddin\bin\Debug\jsEmiterAddin.dll
+F:\projects\jsEmiterAddin\jsEmiterAddin\bin\Debug\jsEmiterAddin.pdb
+F:\projects\jsEmiterAddin\jsEmiterAddin\bin\Debug\jsEmiterAddin.xml
+F:\projects\jsEmiterAddin\jsEmiterAddin\bin\Debug\JCompiler.dll
+F:\projects\jsEmiterAddin\jsEmiterAddin\obj\Debug\jsEmiterAddin.csproj.ResolveComReference.cache
+F:\projects\jsEmiterAddin\jsEmiterAddin\obj\Debug\jsEmiterAddin.dll
+F:\projects\jsEmiterAddin\jsEmiterAddin\obj\Debug\jsEmiterAddin.pdb
+F:\projects\jsEmiterAddin\jsEmiterAddin\obj\Debug\jsEmiterAddin.csprojResolveAssemblyReference.cache
+F:\CSharp-to-javascript\transpiler\jsEmiterAddin\bin\Debug\jsEmiterAddin.dll
+F:\CSharp-to-javascript\transpiler\jsEmiterAddin\bin\Debug\jsEmiterAddin.pdb
+F:\CSharp-to-javascript\transpiler\jsEmiterAddin\bin\Debug\jsEmiterAddin.xml
+F:\CSharp-to-javascript\transpiler\jsEmiterAddin\bin\Debug\JCompiler.dll
+F:\CSharp-to-javascript\transpiler\jsEmiterAddin\obj\Debug\jsEmiterAddin.csprojResolveAssemblyReference.cache
+F:\CSharp-to-javascript\transpiler\jsEmiterAddin\obj\Debug\jsEmiterAddin.csproj.ResolveComReference.cache
+F:\CSharp-to-javascript\transpiler\jsEmiterAddin\obj\Debug\jsEmiterAddin.dll
+F:\CSharp-to-javascript\transpiler\jsEmiterAddin\obj\Debug\jsEmiterAddin.pdb
